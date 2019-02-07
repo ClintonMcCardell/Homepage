@@ -1,0 +1,26 @@
+.bg-prim {
+    background-color: #FF5233;
+    font-family: 'Fahkwang', sans-serif;
+}
+
+.btn-primary {
+    background-color: #40152A;
+    font-family: 'Fahkwang', sans-serif;
+}
+
+.btn-info {
+    background-color: #261822;
+    font-family: 'Fahkwang', sans-serif;
+}
+
+body {
+  color: #261822
+  background-color: #white;
+  font-family: 'Fahkwang', sans-serif;
+  font-weight: bold;
+}
+
+.list-unstyled {
+  padding-left: 50px;
+  paddin-top: 50px;
+}
